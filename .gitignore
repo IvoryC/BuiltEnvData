@@ -3,6 +3,9 @@
 
 # specific to this project
 **fastq.gz**
+**/publication/**
+**/old/**
+*.html
 
 # system file
 .DS_Store
