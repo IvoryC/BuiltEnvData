@@ -1,0 +1,11 @@
+README
+
+The main meta data for this project is figShare/samples_fungi_metadata.txt
+428 samples.
+
+The household names here are the same as the household names in the HongKong-Residence-bacterial project.
+
+ID's from the "Sample" column there match up to the sra metadata tables, tho in different columns.
+In SRP059432_SraRunTable_skin.csv, the ID's to match are in column "Isolate", "Library Name", "Sample Name"
+In SRP099248_SraRunTable_air-surface.csv, Tthe ID's to match are in columns: "Library Name", "Sample Name" and "Source_material_ID"
+

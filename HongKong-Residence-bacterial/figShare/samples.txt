@@ -1,0 +1,429 @@
+Sample	Area	Household	Season	Individual	Type	Room	Region	Footage	No_Occupant	Under_18	Cleaning_Week	Cooking_Week	Pets	Floor	Latitude	Longitude	Windows_Winter	Windows_Spring	RelativeHumidity_AM_Winter	RelativeHumidity_PM_Winter	Temp_AM_Winter	Temp_PM_Winter	RelativeHumidity_AM_Spring	RelativeHumidity_PM_Spring	Temp_AM_Spring	Temp_PM_Spring	SurfaceTouchFrequency	SurfaceDeposition
+ADMa1BRWINT	Bedroom	Admiralty A	Winter	NA	Air	Bedroom	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa1KCWINT	Kitchen	Admiralty A	Winter	NA	Air	Kitchen	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa1LRWINT	Living Room	Admiralty A	Winter	NA	Air	Living Room	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa1TLWINT	Toilet	Admiralty A	Winter	NA	Air	Bathroom	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa2BHBWINT	Bed Headboard	Admiralty A	Winter	NA	Surface	Bedroom	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	High	Low
+ADMa2BLKWINT	Blanket	Admiralty A	Winter	NA	Surface	Bedroom	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	High	High
+ADMa2FDSWINT	Fridge Door Seal	Admiralty A	Winter	NA	Surface	Kitchen	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	Low	Low
+ADMa2KVTWINT	Kitchen Ventilator	Admiralty A	Winter	NA	Surface	Kitchen	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	Low	High
+ADMa2RMCWINT	Remote Control	Admiralty A	Winter	NA	Surface	Living Room	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	High	Low
+ADMa2SCRWINT	TV Screen	Admiralty A	Winter	NA	Surface	Living Room	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	Low	High
+ADMa2SWCWINT	Shower Curtain	Admiralty A	Winter	NA	Surface	Bathroom	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	High	Low
+ADMa2TFBWINT	Toilet Flush Button	Admiralty A	Winter	NA	Surface	Bathroom	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	High	Low
+ADMa3zFOHWINT	Forehead	Admiralty A	Winter	Admiralty A z	Skin	NA	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa3zLFWINT	Left Forearm	Admiralty A	Winter	Admiralty A z	Skin	NA	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa3ZLPWIN	Left Palm	Admiralty A	Winter	Admiralty A z	Skin	NA	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa3zRFWINT	Right Forearm	Admiralty A	Winter	Admiralty A z	Skin	NA	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMa3zRPWINT	Right Palm	Admiralty A	Winter	Admiralty A z	Skin	NA	Island	460	1	0	2	3	No Pet	Wood	22.275838	114.169094	Closed	Closed	63.9	60.1	20.4	20.7	76.9	93.5	24.1	24.6	NA	NA
+ADMb1BRWINT	Bedroom	Admiralty B	Winter	NA	Air	Bedroom	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	NA	NA
+ADMb1KCWINT	Kitchen	Admiralty B	Winter	NA	Air	Kitchen	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	NA	NA
+ADMb1LRWINT	Living Room	Admiralty B	Winter	NA	Air	Living Room	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	NA	NA
+ADMb1TLWINT	Toilet	Admiralty B	Winter	NA	Air	Bathroom	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	NA	NA
+ADMb2BHBWINT	Bed Headboard	Admiralty B	Winter	NA	Surface	Bedroom	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	High	Low
+ADMb2BLKWINT	Blanket	Admiralty B	Winter	NA	Surface	Bedroom	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	High	High
+ADMb2FDSWINT	Fridge Door Seal	Admiralty B	Winter	NA	Surface	Kitchen	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	Low	Low
+ADMb2KVTWINT	Kitchen Ventilator	Admiralty B	Winter	NA	Surface	Kitchen	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	Low	High
+ADMb2RMCWINT	Remote Control	Admiralty B	Winter	NA	Surface	Living Room	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	High	Low
+ADMb2SCRWINT	TV Screen	Admiralty B	Winter	NA	Surface	Living Room	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	Low	High
+ADMb2SWCWINT	Shower Curtain	Admiralty B	Winter	NA	Surface	Bathroom	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	High	Low
+ADMb2TFBWINT	Toilet Flush Button	Admiralty B	Winter	NA	Surface	Bathroom	Island	230	1	0	1	0	No Pet	Wood	22.276015	114.167841	Closed	Closed	50.7	53.4	18.5	19.2	84	80.2	23.3	22.9	High	Low
+FH1BRWINT	Bedroom	Fortress Hill	Winter	NA	Air	Bedroom	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH1KCWINT	Kitchen	Fortress Hill	Winter	NA	Air	Kitchen	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH1LRWINT	Living Room	Fortress Hill	Winter	NA	Air	Living Room	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH1TLWINT	Toilet	Fortress Hill	Winter	NA	Air	Bathroom	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH2BHBWINT	Bed Headboard	Fortress Hill	Winter	NA	Surface	Bedroom	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	High	Low
+FH2BLKWINT	Blanket	Fortress Hill	Winter	NA	Surface	Bedroom	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	High	High
+FH2FDSWINT	Fridge Door Seal	Fortress Hill	Winter	NA	Surface	Kitchen	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	Low	Low
+FH2KVTWINT	Kitchen Ventilator	Fortress Hill	Winter	NA	Surface	Kitchen	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	Low	High
+FH2RMCWINT	Remote Control	Fortress Hill	Winter	NA	Surface	Living Room	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	High	Low
+FH2SCRWINT	TV Screen	Fortress Hill	Winter	NA	Surface	Living Room	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	Low	High
+FH2SWCWINT	Shower Curtain	Fortress Hill	Winter	NA	Surface	Bathroom	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	High	Low
+FH2TFBWINT	Toilet Flush Button	Fortress Hill	Winter	NA	Surface	Bathroom	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	High	Low
+FH3YFOHWINT	Forehead	Fortress Hill	Winter	Fortress Hill y	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3YLFWINT	Left Forearm	Fortress Hill	Winter	Fortress Hill y	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3YLPWINT	Left Palm	Fortress Hill	Winter	Fortress Hill y	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3YRFWINT	Right Forearm	Fortress Hill	Winter	Fortress Hill y	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3YRPWINT	Right Palm	Fortress Hill	Winter	Fortress Hill y	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3ZFOHWINT	Forehead	Fortress Hill	Winter	Fortress Hill z	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3ZLFWINT	Left Forearm	Fortress Hill	Winter	Fortress Hill z	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3ZLPWINT	Left Palm	Fortress Hill	Winter	Fortress Hill z	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3ZRFWINT	Right Forearm	Fortress Hill	Winter	Fortress Hill z	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FH3ZRPWINT	Right Palm	Fortress Hill	Winter	Fortress Hill z	Skin	NA	Island	1200	2	0	14	18	No Pet	Wood	22.284937	114.19658	Open	Open	64.7	63.2	19.2	20	79.8	77.9	24.6	23.4	NA	NA
+FT1BRWINT	Bedroom	Fo Tan	Winter	NA	Air	Bedroom	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT1KCWINT	Kitchen	Fo Tan	Winter	NA	Air	Kitchen	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT1LRWINT	Living Room	Fo Tan	Winter	NA	Air	Living Room	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT1TLWINT	Toilet	Fo Tan	Winter	NA	Air	Bathroom	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT2BHBWINT	Bed Headboard	Fo Tan	Winter	NA	Surface	Bedroom	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	High	Low
+FT2BLKWINT	Blanket	Fo Tan	Winter	NA	Surface	Bedroom	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	High	High
+FT2FDSWINT	Fridge Door Seal	Fo Tan	Winter	NA	Surface	Kitchen	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	Low	Low
+FT2KVTWINT	Kitchen Ventilator	Fo Tan	Winter	NA	Surface	Kitchen	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	Low	High
+FT2RMCWINT	Remote Control	Fo Tan	Winter	NA	Surface	Living Room	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	High	Low
+FT2SCRWINT	TV Screen	Fo Tan	Winter	NA	Surface	Living Room	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	Low	High
+FT2SWCWINT	Shower Curtain	Fo Tan	Winter	NA	Surface	Bathroom	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	High	Low
+FT2TFBWINT	Toilet Flush Button	Fo Tan	Winter	NA	Surface	Bathroom	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	High	Low
+FT3zFOHWINT	Forehead	Fo Tan	Winter	Fo Tan z	Skin	NA	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT3zLFWINT	Left Forearm	Fo Tan	Winter	Fo Tan z	Skin	NA	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT3zLPWINT	Left Palm	Fo Tan	Winter	Fo Tan z	Skin	NA	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT3zRFWINT	Right Forearm	Fo Tan	Winter	Fo Tan z	Skin	NA	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+FT3zRPWINT	Right Palm	Fo Tan	Winter	Fo Tan z	Skin	NA	New Territories	1200	1	0	7	8	No Pet	Wood	22.396007	114.199684	Closed	Open	39.8	28.6	20.3	19.4	78	65.3	25.5	26.7	NA	NA
+HFC1BRWINT	Bedroom	Heng Fa Chuen	Winter	NA	Air	Bedroom	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC1KCWINT	Kitchen	Heng Fa Chuen	Winter	NA	Air	Kitchen	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC1LRWINT	Living Room	Heng Fa Chuen	Winter	NA	Air	Living Room	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC1TLWINT	Toilet	Heng Fa Chuen	Winter	NA	Air	Bathroom	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC2BHBWINT	Bed Headboard	Heng Fa Chuen	Winter	NA	Surface	Bedroom	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	High	Low
+HFC2BLKWINT	Blanket	Heng Fa Chuen	Winter	NA	Surface	Bedroom	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	High	High
+HFC2FDSWINT	Fridge Door Seal	Heng Fa Chuen	Winter	NA	Surface	Kitchen	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	Low	Low
+HFC2KVTWINT	Kitchen Ventilator	Heng Fa Chuen	Winter	NA	Surface	Kitchen	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	Low	High
+HFC2RMCWINT	Remote Control	Heng Fa Chuen	Winter	NA	Surface	Living Room	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	High	Low
+HFC2SCRWINT	TV Screen	Heng Fa Chuen	Winter	NA	Surface	Living Room	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	Low	High
+HFC2SWCWINT	Shower Curtain	Heng Fa Chuen	Winter	NA	Surface	Bathroom	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	High	Low
+HFC2TFBWINT	Toilet Flush Button	Heng Fa Chuen	Winter	NA	Surface	Bathroom	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	High	Low
+HFC3zFOHWINT	Forehead	Heng Fa Chuen	Winter	Heng Fa Chuen z	Skin	NA	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC3zLFWINT	Left Forearm	Heng Fa Chuen	Winter	Heng Fa Chuen z	Skin	NA	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC3zLPWINT	Left Palm	Heng Fa Chuen	Winter	Heng Fa Chuen z	Skin	NA	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC3zRFWINT	Right Forearm	Heng Fa Chuen	Winter	Heng Fa Chuen z	Skin	NA	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HFC3ZRPWINT	Right Palm	Heng Fa Chuen	Winter	Heng Fa Chuen z	Skin	NA	Island	1000	1	0	1	4	No Pet	Tile	22.278597	114.240731	Open	Closed	62.7	70.2	20.1	20.3	76.3	77.7	23.7	24.3	NA	NA
+HHa1BRWINT	Bedroom	Hung Hom A	Winter	NA	Air	Bedroom	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa1KCWINT	Kitchen	Hung Hom A	Winter	NA	Air	Kitchen	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa1LRWINT	Living Room	Hung Hom A	Winter	NA	Air	Living Room	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa1TLWINT	Toilet	Hung Hom A	Winter	NA	Air	Bathroom	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa2BHBWINT	Bed Headboard	Hung Hom A	Winter	NA	Surface	Bedroom	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	High	Low
+HHa2BLKWINT	Blanket	Hung Hom A	Winter	NA	Surface	Bedroom	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	High	High
+HHa2FDSWINT	Fridge Door Seal	Hung Hom A	Winter	NA	Surface	Kitchen	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	Low	Low
+HHa2KVTWINT	Kitchen Ventilator	Hung Hom A	Winter	NA	Surface	Kitchen	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	Low	High
+HHa2RMCWINT	Remote Control	Hung Hom A	Winter	NA	Surface	Living Room	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	High	Low
+HHa2SCRWINT	TV Screen	Hung Hom A	Winter	NA	Surface	Living Room	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	Low	High
+HHa2SWCWINT	Shower Curtain	Hung Hom A	Winter	NA	Surface	Bathroom	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	High	Low
+HHa2TFBWINT	Toilet Flush Button	Hung Hom A	Winter	NA	Surface	Bathroom	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	High	Low
+HHa3zFOHWINT	Forehead	Hung Hom A	Winter	Hung Hom A z	Skin	NA	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa3zLFWINT	Left Forearm	Hung Hom A	Winter	Hung Hom A z	Skin	NA	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa3zLPWINT	Left Palm	Hung Hom A	Winter	Hung Hom A z	Skin	NA	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa3zRFWINT	Right Forearm	Hung Hom A	Winter	Hung Hom A z	Skin	NA	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHa3zRPWINT	Right Palm	Hung Hom A	Winter	Hung Hom A z	Skin	NA	Kowloon	450	1	0	1	0	No Pet	Wood	22.302883	114.187396	Open	Closed	73	72.4	19.6	20	89.8	60.4	24.7	27.1	NA	NA
+HHb1BRWINT	Bedroom	Hung Hom B	Winter	NA	Air	Bedroom	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	NA	NA
+HHb1KCWINT	Kitchen	Hung Hom B	Winter	NA	Air	Kitchen	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	NA	NA
+HHb1LRWINT	Living Room	Hung Hom B	Winter	NA	Air	Living Room	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	NA	NA
+HHb1TLWINT	Toilet	Hung Hom B	Winter	NA	Air	Bathroom	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	NA	NA
+HHb2BHBWINT	Bed Headboard	Hung Hom B	Winter	NA	Surface	Bedroom	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	High	Low
+HHb2BLKWINT	Blanket	Hung Hom B	Winter	NA	Surface	Bedroom	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	High	High
+HHb2FDSWINT	Fridge Door Seal	Hung Hom B	Winter	NA	Surface	Kitchen	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	Low	Low
+HHb2KVTWINT	Kitchen Ventilator	Hung Hom B	Winter	NA	Surface	Kitchen	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	Low	High
+HHb2RMCWINT	Remote Control	Hung Hom B	Winter	NA	Surface	Living Room	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	High	Low
+HHb2SCRWINT	TV Screen	Hung Hom B	Winter	NA	Surface	Living Room	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	Low	High
+HHb2SWCWINT	Shower Curtain	Hung Hom B	Winter	NA	Surface	Bathroom	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	High	Low
+HHb2TFBWINT	Toilet Flush Button	Hung Hom B	Winter	NA	Surface	Bathroom	Kowloon	650	2	0	2	5	Pet	Wood	22.307303	114.192191	Open	Closed	72.4	73	20.4	19.9	82.6	87.4	24.2	24.9	High	Low
+KT1BRWINT	Bedroom	Kwun Tong	Winter	NA	Air	Bedroom	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT1KCWINT	Kitchen	Kwun Tong	Winter	NA	Air	Kitchen	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT1LRWINT	Living Room	Kwun Tong	Winter	NA	Air	Living Room	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT1TLWINT	Toilet	Kwun Tong	Winter	NA	Air	Bathroom	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT2BHBWINT	Bed Headboard	Kwun Tong	Winter	NA	Surface	Bedroom	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	High	Low
+KT2BLKWINT	Blanket	Kwun Tong	Winter	NA	Surface	Bedroom	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	High	High
+KT2FDSWINT	Fridge Door Seal	Kwun Tong	Winter	NA	Surface	Kitchen	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	Low	Low
+KT2KVTWINT	Kitchen Ventilator	Kwun Tong	Winter	NA	Surface	Kitchen	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	Low	High
+KT2RMCWINT	Remote Control	Kwun Tong	Winter	NA	Surface	Living Room	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	High	Low
+KT2SCRWINT	TV Screen	Kwun Tong	Winter	NA	Surface	Living Room	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	Low	High
+KT2SWCWINT	Shower Curtain	Kwun Tong	Winter	NA	Surface	Bathroom	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	High	Low
+KT2TFBWINT	Toilet Flush Button	Kwun Tong	Winter	NA	Surface	Bathroom	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	High	Low
+KT3zFOHWINT	Forehead	Kwun Tong	Winter	Kwun Tong z	Skin	NA	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT3zLFWINT	Left Forearm	Kwun Tong	Winter	Kwun Tong z	Skin	NA	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT3zLPWINT	Left Palm	Kwun Tong	Winter	Kwun Tong z	Skin	NA	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT3zRFWINT	Right Forearm	Kwun Tong	Winter	Kwun Tong z	Skin	NA	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+KT3zRPWINT	Right Palm	Kwun Tong	Winter	Kwun Tong z	Skin	NA	Kowloon	350	1	0	7	21	No Pet	Wood	22.312576	114.228123	Closed	Open	55.3	43.9	19.8	19.3	80	75.9	26.5	27.4	NA	NA
+MOS1BRWINT	Bedroom	Ma On Shan	Winter	NA	Air	Bedroom	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS1KCWINT	Kitchen	Ma On Shan	Winter	NA	Air	Kitchen	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS1LRWINT	Living Room	Ma On Shan	Winter	NA	Air	Living Room	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS1TLWINT	Toilet	Ma On Shan	Winter	NA	Air	Bathroom	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS2BHBWINT	Bed Headboard	Ma On Shan	Winter	NA	Surface	Bedroom	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	High	Low
+MOS2BLKWINT	Blanket	Ma On Shan	Winter	NA	Surface	Bedroom	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	High	High
+MOS2FDSWINT	Fridge Door Seal	Ma On Shan	Winter	NA	Surface	Kitchen	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	Low	Low
+MOS2KVTWINT	Kitchen Ventilator	Ma On Shan	Winter	NA	Surface	Kitchen	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	Low	High
+MOS2RMCWINT	Remote Control	Ma On Shan	Winter	NA	Surface	Living Room	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	High	Low
+MOS2SCRWINT	TV Screen	Ma On Shan	Winter	NA	Surface	Living Room	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	Low	High
+MOS2SWCWINT	Shower Curtain	Ma On Shan	Winter	NA	Surface	Bathroom	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	High	Low
+MOS2TFBWINT	Toilet Flush Button	Ma On Shan	Winter	NA	Surface	Bathroom	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	High	Low
+MOS3wFOHWINT	Forehead	Ma On Shan	Winter	Ma On Shan w	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3wLFWINT	Left Forearm	Ma On Shan	Winter	Ma On Shan w	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3wLPWINT	Left Palm	Ma On Shan	Winter	Ma On Shan w	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3wRFWINT	Right Forearm	Ma On Shan	Winter	Ma On Shan w	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3wRPWINT	Right Palm	Ma On Shan	Winter	Ma On Shan w	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3xFOHWINT	Forehead	Ma On Shan	Winter	Ma On Shan x	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3xLFWINT	Left Forearm	Ma On Shan	Winter	Ma On Shan x	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3xLPWINT	Left Palm	Ma On Shan	Winter	Ma On Shan x	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3xRFWINT	Right Forearm	Ma On Shan	Winter	Ma On Shan x	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3xRPWINT	Right Palm	Ma On Shan	Winter	Ma On Shan x	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3yFOHWINT	Forehead	Ma On Shan	Winter	Ma On Shan y	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3yLFWINT	Left Forearm	Ma On Shan	Winter	Ma On Shan y	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3yLPWINT	Left Palm	Ma On Shan	Winter	Ma On Shan y	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3yRFWINT	Right Forearm	Ma On Shan	Winter	Ma On Shan y	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+MOS3yRPWINT	Right Palm	Ma On Shan	Winter	Ma On Shan y	Skin	NA	New Territories	340	4	0	7	14	No Pet	Tile	22.422551	114.226197	Closed	Closed	84.6	77.4	19.8	20.1	73.8	77.4	24.8	23	NA	NA
+QB1BRWINT	Bedroom	Quarry Bay	Winter	NA	Air	Bedroom	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB1KCWINT	Kitchen	Quarry Bay	Winter	NA	Air	Kitchen	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB1LRWINT	Living Room	Quarry Bay	Winter	NA	Air	Living Room	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB1TLWINT	Toilet	Quarry Bay	Winter	NA	Air	Bathroom	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB2BHBWINT	Bed Headboard	Quarry Bay	Winter	NA	Surface	Bedroom	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	High	Low
+QB2BLKWINT	Blanket	Quarry Bay	Winter	NA	Surface	Bedroom	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	High	High
+QB2FDSWINT	Fridge Door Seal	Quarry Bay	Winter	NA	Surface	Kitchen	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	Low	Low
+QB2KVTWINT	Kitchen Ventilator	Quarry Bay	Winter	NA	Surface	Kitchen	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	Low	High
+QB2RMCWINT	Remote Control	Quarry Bay	Winter	NA	Surface	Living Room	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	High	Low
+QB2SCRWINT	TV Screen	Quarry Bay	Winter	NA	Surface	Living Room	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	Low	High
+QB2SWCWINT	Shower Curtain	Quarry Bay	Winter	NA	Surface	Bathroom	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	High	Low
+QB2TFBWINT	Toilet Flush Button	Quarry Bay	Winter	NA	Surface	Bathroom	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	High	Low
+QB3XFOHWINT	Forehead	Quarry Bay	Winter	Quarry Bay x	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3XLFWINT	Left Forearm	Quarry Bay	Winter	Quarry Bay x	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3XLPWINT	Left Palm	Quarry Bay	Winter	Quarry Bay x	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3XRFWINT	Right Forearm	Quarry Bay	Winter	Quarry Bay x	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3XRPWINT	Right Palm	Quarry Bay	Winter	Quarry Bay x	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3YFOHWINT	Forehead	Quarry Bay	Winter	Quarry Bay y	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3YLFWINT	Left Forearm	Quarry Bay	Winter	Quarry Bay y	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3YLPWINT	Left Palm	Quarry Bay	Winter	Quarry Bay y	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3YRFWINT	Right Forearm	Quarry Bay	Winter	Quarry Bay y	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3YRPWINT	Right Palm	Quarry Bay	Winter	Quarry Bay y	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3ZFOHWINT	Forehead	Quarry Bay	Winter	Quarry Bay z	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3ZLFWINT	Left Forearm	Quarry Bay	Winter	Quarry Bay z	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3ZLPWINT	Left Palm	Quarry Bay	Winter	Quarry Bay z	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3ZRFWINT	Right Forearm	Quarry Bay	Winter	Quarry Bay z	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+QB3ZRPWINT	Right Palm	Quarry Bay	Winter	Quarry Bay z	Skin	NA	Island	888	3	0	7	7	Pet	Tile	22.289627	114.210341	Open	Closed	50.2	50.9	20.1	18.7	83.4	84	25	25.3	NA	NA
+STW1BRWINT	Bedroom	Sha Tin Wai	Winter	NA	Air	Bedroom	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW1KCWINT	Kitchen	Sha Tin Wai	Winter	NA	Air	Kitchen	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW1LRWINT	Living Room	Sha Tin Wai	Winter	NA	Air	Living Room	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW1TLWINT	Toilet	Sha Tin Wai	Winter	NA	Air	Bathroom	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW2BHBWINT	Bed Headboard	Sha Tin Wai	Winter	NA	Surface	Bedroom	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	High	Low
+STW2BLKWINT	Blanket	Sha Tin Wai	Winter	NA	Surface	Bedroom	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	High	High
+STW2FDSWINT	Fridge Door Seal	Sha Tin Wai	Winter	NA	Surface	Kitchen	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	Low	Low
+STW2KVTWINT	Kitchen Ventilator	Sha Tin Wai	Winter	NA	Surface	Kitchen	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	Low	High
+STW2RMCWINT	Remote Control	Sha Tin Wai	Winter	NA	Surface	Living Room	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	High	Low
+STW2SCRWINT	TV Screen	Sha Tin Wai	Winter	NA	Surface	Living Room	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	Low	High
+STW2SWCWINT	Shower Curtain	Sha Tin Wai	Winter	NA	Surface	Bathroom	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	High	Low
+STW2TFBWINT	Toilet Flush Button	Sha Tin Wai	Winter	NA	Surface	Bathroom	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	High	Low
+STW3xFOHWINT	Forehead	Sha Tin Wai	Winter	Sha Tin Wai x	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3xLFWINT	Left Forearm	Sha Tin Wai	Winter	Sha Tin Wai x	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3xLPWINT	Left Palm	Sha Tin Wai	Winter	Sha Tin Wai x	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3xRFWINT	Right Forearm	Sha Tin Wai	Winter	Sha Tin Wai x	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3xRPWINT	Right Palm	Sha Tin Wai	Winter	Sha Tin Wai x	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3yFOHWINT	Forehead	Sha Tin Wai	Winter	Sha Tin Wai y	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3yLFWINT	Left Forearm	Sha Tin Wai	Winter	Sha Tin Wai y	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3yLPWINT	Left Palm	Sha Tin Wai	Winter	Sha Tin Wai y	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3yRFWINT	Right Forearm	Sha Tin Wai	Winter	Sha Tin Wai y	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+STW3yRPWINT	Right Palm	Sha Tin Wai	Winter	Sha Tin Wai y	Skin	NA	New Territories	700	3	0	7	4	Pet	Tile	22.37303	114.195228	Open	Open	55.4	33.6	17	17.9	83.5	81.5	25.4	26	NA	NA
+SW1BRWINT	Bedroom	Sai Wan	Winter	NA	Air	Bedroom	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW1KCWINT	Kitchen	Sai Wan	Winter	NA	Air	Kitchen	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW1LRWINT	Living Room	Sai Wan	Winter	NA	Air	Living Room	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW1TLWINT	Toilet	Sai Wan	Winter	NA	Air	Bathroom	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW2BHBWINT	Bed Headboard	Sai Wan	Winter	NA	Surface	Bedroom	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	High	Low
+SW2BLKWINT	Blanket	Sai Wan	Winter	NA	Surface	Bedroom	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	High	High
+SW2FDSWINT	Fridge Door Seal	Sai Wan	Winter	NA	Surface	Kitchen	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	Low	Low
+SW2KVTWINT	Kitchen Ventilator	Sai Wan	Winter	NA	Surface	Kitchen	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	Low	High
+SW2RMCWINT	Remote Control	Sai Wan	Winter	NA	Surface	Living Room	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	High	Low
+SW2SCRWINT	TV Screen	Sai Wan	Winter	NA	Surface	Living Room	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	Low	High
+SW2SWCWINT	Shower Curtain	Sai Wan	Winter	NA	Surface	Bathroom	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	High	Low
+SW2TFBWINT	Toilet Flush Button	Sai Wan	Winter	NA	Surface	Bathroom	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	High	Low
+SW3yFOHWINT	Forehead	Sai Wan	Winter	Sai Wan y	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3yLFWINT	Left Forearm	Sai Wan	Winter	Sai Wan y	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3yLPWINT	Left Palm	Sai Wan	Winter	Sai Wan y	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3yRFWINT	Right Forearm	Sai Wan	Winter	Sai Wan y	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3yRPWINT	Right Palm	Sai Wan	Winter	Sai Wan y	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3zFOHWINT	Forehead	Sai Wan	Winter	Sai Wan z	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3zLFWINT	Left Forearm	Sai Wan	Winter	Sai Wan z	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3zLPWINT	Left Palm	Sai Wan	Winter	Sai Wan z	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3zRFWINT	Right Forearm	Sai Wan	Winter	Sai Wan z	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+SW3zRPWINT	Right Palm	Sai Wan	Winter	Sai Wan z	Skin	NA	Island	650	2	0	1	3	No Pet	Wood	22.287412	114.133075	Open	Closed	57.8	50.6	19.9	20.8	81.2	83.1	23.6	21	NA	NA
+TH1BRWINT	Bedroom	Tin Hau	Winter	NA	Air	Bedroom	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH1KCWINT	Kitchen	Tin Hau	Winter	NA	Air	Kitchen	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH1LRWINT	Living Room	Tin Hau	Winter	NA	Air	Living Room	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH1TLWINT	Toilet	Tin Hau	Winter	NA	Air	Bathroom	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH2BHBWINT	Bed Headboard	Tin Hau	Winter	NA	Surface	Bedroom	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	High	Low
+TH2BLKWINT	Blanket	Tin Hau	Winter	NA	Surface	Bedroom	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	High	High
+TH2FDSWINT	Fridge Door Seal	Tin Hau	Winter	NA	Surface	Kitchen	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	Low	Low
+TH2KVTWINT	Kitchen Ventilator	Tin Hau	Winter	NA	Surface	Kitchen	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	Low	High
+TH2RMCWINT	Remote Control	Tin Hau	Winter	NA	Surface	Living Room	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	High	Low
+TH2SCRWINT	TV Screen	Tin Hau	Winter	NA	Surface	Living Room	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	Low	High
+TH2SWCWINT	Shower Curtain	Tin Hau	Winter	NA	Surface	Bathroom	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	High	Low
+TH2TFBWINT	Toilet Flush Button	Tin Hau	Winter	NA	Surface	Bathroom	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	High	Low
+TH3zFOHWINT	Forehead	Tin Hau	Winter	Tin Hau z	Skin	NA	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH3zLFWINT	Left Forearm	Tin Hau	Winter	Tin Hau z	Skin	NA	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH3zLPWINT	Left Palm	Tin Hau	Winter	Tin Hau z	Skin	NA	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH3zRFWINT	Right Forearm	Tin Hau	Winter	Tin Hau z	Skin	NA	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TH3zRPWINT	Right Palm	Tin Hau	Winter	Tin Hau z	Skin	NA	Island	900	1	0	1	3	No Pet	Wood	22.281696	114.19328	Open	Closed	63.2	66	20.9	21	73.8	76.8	25.5	23.5	NA	NA
+TK1BRWINT	Bedroom	Tai Koo	Winter	NA	Air	Bedroom	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK1KCWINT	Kitchen	Tai Koo	Winter	NA	Air	Kitchen	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK1LRWINT	Living Room	Tai Koo	Winter	NA	Air	Living Room	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK1TLWINT	Toilet	Tai Koo	Winter	NA	Air	Bathroom	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK2BHBWINT	Bed Headboard	Tai Koo	Winter	NA	Surface	Bedroom	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	High	Low
+TK2BLKWINT	Blanket	Tai Koo	Winter	NA	Surface	Bedroom	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	High	High
+TK2FDSWINT	Fridge Door Seal	Tai Koo	Winter	NA	Surface	Kitchen	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	Low	Low
+TK2KVTWINT	Kitchen Ventilator	Tai Koo	Winter	NA	Surface	Kitchen	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	Low	High
+TK2RMCWINT	Remote Control	Tai Koo	Winter	NA	Surface	Living Room	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	High	Low
+TK2SCRWINT	TV Screen	Tai Koo	Winter	NA	Surface	Living Room	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	Low	High
+TK2SWCWINT	Shower Curtain	Tai Koo	Winter	NA	Surface	Bathroom	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	High	Low
+TK2TFBWINT	Toilet Flush Button	Tai Koo	Winter	NA	Surface	Bathroom	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	High	Low
+TK3XFOHWINT	Forehead	Tai Koo	Winter	Tai Koo x	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3XLFWINT	Left Forearm	Tai Koo	Winter	Tai Koo x	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3XLPWINT	Left Palm	Tai Koo	Winter	Tai Koo x	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3XRFWINT	Right Forearm	Tai Koo	Winter	Tai Koo x	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3XRPWINT	Right Palm	Tai Koo	Winter	Tai Koo x	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3YFOHWINT	Forehead	Tai Koo	Winter	Tai Koo y	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3YLFWINT	Left Forearm	Tai Koo	Winter	Tai Koo y	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3YLPWINT	Left Palm	Tai Koo	Winter	Tai Koo y	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3YRFWINT	Right Forearm	Tai Koo	Winter	Tai Koo y	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3YRPWINT	Right Palm	Tai Koo	Winter	Tai Koo y	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3ZFOHWINT	Forehead	Tai Koo	Winter	Tai Koo z	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3ZLFWINT	Left Forearm	Tai Koo	Winter	Tai Koo z	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3ZLPWINT	Left Palm	Tai Koo	Winter	Tai Koo z	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3ZRFWINT	Right Forearm	Tai Koo	Winter	Tai Koo z	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TK3ZRPWINT	Right Palm	Tai Koo	Winter	Tai Koo z	Skin	NA	Island	627	3	1	2	6	No Pet	Wood	22.28352	114.21366	Open	Open	59.7	60	19.4	20.1	73.6	72.9	26.4	22.7	NA	NA
+TMa1BRWINT	Bedroom	Tuen Mun A	Winter	NA	Air	Bedroom	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa1KCWINT	Kitchen	Tuen Mun A	Winter	NA	Air	Kitchen	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa1LRWINT	Living Room	Tuen Mun A	Winter	NA	Air	Living Room	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa1TLWINT	Toilet	Tuen Mun A	Winter	NA	Air	Bathroom	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa2BHBWINT	Bed Headboard	Tuen Mun A	Winter	NA	Surface	Bedroom	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	High	Low
+TMa2BLKWINT	Blanket	Tuen Mun A	Winter	NA	Surface	Bedroom	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	High	High
+TMa2FDSWINT	Fridge Door Seal	Tuen Mun A	Winter	NA	Surface	Kitchen	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	Low	Low
+TMa2KVTWINT	Kitchen Ventilator	Tuen Mun A	Winter	NA	Surface	Kitchen	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	Low	High
+TMa2RMCWINT	Remote Control	Tuen Mun A	Winter	NA	Surface	Living Room	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	High	Low
+TMa2SCRWINT	TV Screen	Tuen Mun A	Winter	NA	Surface	Living Room	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	Low	High
+TMa2SWCWINT	Shower Curtain	Tuen Mun A	Winter	NA	Surface	Bathroom	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	High	Low
+TMa2TFBWINT	Toilet Flush Button	Tuen Mun A	Winter	NA	Surface	Bathroom	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	High	Low
+TMa3xFOHWINT	Forehead	Tuen Mun A	Winter	Tuen Mun A x	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3xLFWINT	Left Forearm	Tuen Mun A	Winter	Tuen Mun A x	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3xLPWINT	Left Palm	Tuen Mun A	Winter	Tuen Mun A x	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3xRFWINT	Right Forearm	Tuen Mun A	Winter	Tuen Mun A x	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3xRPWINT	Right Palm	Tuen Mun A	Winter	Tuen Mun A x	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3yFOHWINT	Forehead	Tuen Mun A	Winter	Tuen Mun A y	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3yLFWINT	Left Forearm	Tuen Mun A	Winter	Tuen Mun A y	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3yLPWINT	Left Palm	Tuen Mun A	Winter	Tuen Mun A y	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3yRFWINT	Right Forearm	Tuen Mun A	Winter	Tuen Mun A y	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3yRPWINT	Right Palm	Tuen Mun A	Winter	Tuen Mun A y	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3ZFOHWINT	Forehead	Tuen Mun A	Winter	Tuen Mun A z	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3zLFWINT	Left Forearm	Tuen Mun A	Winter	Tuen Mun A z	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3zLPWINT	Left Palm	Tuen Mun A	Winter	Tuen Mun A z	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3zRFWINT	Right Forearm	Tuen Mun A	Winter	Tuen Mun A z	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMa3zRPWINT	Right Palm	Tuen Mun A	Winter	Tuen Mun A z	Skin	NA	New Territories	620	3	2	7	21	No Pet	Wood	22.373435	113.990573	Closed	Open	59.2	42.8	21	22.5	77.7	79.2	26.6	26.8	NA	NA
+TMb1BRWINT	Bedroom	Tuen Mun B	Winter	NA	Air	Bedroom	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb1KCWINT	Kitchen	Tuen Mun B	Winter	NA	Air	Kitchen	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb1LRWINT	Living Room	Tuen Mun B	Winter	NA	Air	Living Room	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb1TLWINT	Toilet	Tuen Mun B	Winter	NA	Air	Bathroom	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb2BHBWINT	Bed Headboard	Tuen Mun B	Winter	NA	Surface	Bedroom	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	High	Low
+TMb2BLKWINT	Blanket	Tuen Mun B	Winter	NA	Surface	Bedroom	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	High	High
+TMb2FDSWINT	Fridge Door Seal	Tuen Mun B	Winter	NA	Surface	Kitchen	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	Low	Low
+TMb2KVTWINT	Kitchen Ventilator	Tuen Mun B	Winter	NA	Surface	Kitchen	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	Low	High
+TMb2RMCWINT	Remote Control	Tuen Mun B	Winter	NA	Surface	Living Room	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	High	Low
+TMb2SCRWINT	TV Screen	Tuen Mun B	Winter	NA	Surface	Living Room	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	Low	High
+TMb2SWCWINT	Shower Curtain	Tuen Mun B	Winter	NA	Surface	Bathroom	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	High	Low
+TMb2TFBWINT	Toilet Flush Button	Tuen Mun B	Winter	NA	Surface	Bathroom	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	High	Low
+TMb3wFOHWINT	Forehead	Tuen Mun B	Winter	Tuen Mun B w	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3wLFWINT	Left Forearm	Tuen Mun B	Winter	Tuen Mun B w	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3wLPWINT	Left Palm	Tuen Mun B	Winter	Tuen Mun B w	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3wRFWINT	Right Forearm	Tuen Mun B	Winter	Tuen Mun B w	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3wRPWINT	Right Palm	Tuen Mun B	Winter	Tuen Mun B w	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3xFOHWINT	Forehead	Tuen Mun B	Winter	Tuen Mun B x	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3xLFWINT	Left Forearm	Tuen Mun B	Winter	Tuen Mun B x	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3xLPWINT	Left Palm	Tuen Mun B	Winter	Tuen Mun B x	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3xRFWINT	Right Forearm	Tuen Mun B	Winter	Tuen Mun B x	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3xRPWINT	Right Palm	Tuen Mun B	Winter	Tuen Mun B x	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3yFOHWINT	Forehead	Tuen Mun B	Winter	Tuen Mun B y	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3yLFWINT	Left Forearm	Tuen Mun B	Winter	Tuen Mun B y	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3yLPWINT	Left Palm	Tuen Mun B	Winter	Tuen Mun B y	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3yRFWINT	Right Forearm	Tuen Mun B	Winter	Tuen Mun B y	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TMb3yRPWINT	Right Palm	Tuen Mun B	Winter	Tuen Mun B y	Skin	NA	New Territories	650	4	0	2	7	No Pet	Wood	22.385616	113.98039	Open	Open	46.7	43.2	19	20.1	65.8	67.6	27.8	28.9	NA	NA
+TY1BRWINT	Bedroom	Tsing Yi	Winter	NA	Air	Bedroom	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY1KCWINT	Kitchen	Tsing Yi	Winter	NA	Air	Kitchen	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY1LRWINT	Living Room	Tsing Yi	Winter	NA	Air	Living Room	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY1TLWINT	Toilet	Tsing Yi	Winter	NA	Air	Bathroom	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY2BHBWINT	Bed Headboard	Tsing Yi	Winter	NA	Surface	Bedroom	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	High	Low
+TY2BLKWINT	Blanket	Tsing Yi	Winter	NA	Surface	Bedroom	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	High	High
+TY2FDSWINT	Fridge Door Seal	Tsing Yi	Winter	NA	Surface	Kitchen	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	Low	Low
+TY2KVTWINT	Kitchen Ventilator	Tsing Yi	Winter	NA	Surface	Kitchen	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	Low	High
+TY2RMCWINT	Remote Control	Tsing Yi	Winter	NA	Surface	Living Room	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	High	Low
+TY2SCRWINT	TV Screen	Tsing Yi	Winter	NA	Surface	Living Room	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	Low	High
+TY2SWCWINT	Shower Curtain	Tsing Yi	Winter	NA	Surface	Bathroom	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	High	Low
+TY2TFBWINT	Toilet Flush Button	Tsing Yi	Winter	NA	Surface	Bathroom	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	High	Low
+TY3wFOHWINT	Forehead	Tsing Yi	Winter	Tsing Yi w	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3wLFWINT	Left Forearm	Tsing Yi	Winter	Tsing Yi w	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3wLPWINT	Left Palm	Tsing Yi	Winter	Tsing Yi w	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3wRFWINT	Right Forearm	Tsing Yi	Winter	Tsing Yi w	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3wRPWINT	Right Palm	Tsing Yi	Winter	Tsing Yi w	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3xFOHWINT	Forehead	Tsing Yi	Winter	Tsing Yi x	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3xLFWINT	Left Forearm	Tsing Yi	Winter	Tsing Yi x	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3xLPWINT	Left Palm	Tsing Yi	Winter	Tsing Yi x	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3xRFWINT	Right Forearm	Tsing Yi	Winter	Tsing Yi x	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3xRPWINT	Right Palm	Tsing Yi	Winter	Tsing Yi x	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3yFOHWINT	Forehead	Tsing Yi	Winter	Tsing Yi y	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3yLFWINT	Left Forearm	Tsing Yi	Winter	Tsing Yi y	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3yLPWINT	Left Palm	Tsing Yi	Winter	Tsing Yi y	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3yRFWINT	Right Forearm	Tsing Yi	Winter	Tsing Yi y	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3yRPWINT	Right Palm	Tsing Yi	Winter	Tsing Yi y	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3zFOHWINT	Forehead	Tsing Yi	Winter	Tsing Yi z	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3zLFWINT	Left Forearm	Tsing Yi	Winter	Tsing Yi z	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3zLPWINT	Left Palm	Tsing Yi	Winter	Tsing Yi z	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3zRFWINT	Right Forearm	Tsing Yi	Winter	Tsing Yi z	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+TY3zRPWINT	Right Palm	Tsing Yi	Winter	Tsing Yi z	Skin	NA	Kowloon	630	5	3	7	18	No Pet	Wood	22.352595	114.109612	Open	Closed	64.5	72.9	17.8	17.7	86.2	87.4	25.5	25	NA	NA
+WKS1BRWINT	Bedroom	Wu Kai Sha	Winter	NA	Air	Bedroom	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS1KCWINT	Kitchen	Wu Kai Sha	Winter	NA	Air	Kitchen	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS1LRWINT	Living Room	Wu Kai Sha	Winter	NA	Air	Living Room	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS1TLWINT	Toilet	Wu Kai Sha	Winter	NA	Air	Bathroom	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS2BHBWINT	Bed Headboard	Wu Kai Sha	Winter	NA	Surface	Bedroom	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	High	Low
+WKS2BLKWINT	Blanket	Wu Kai Sha	Winter	NA	Surface	Bedroom	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	High	High
+WKS2FDSWINT	Fridge Door Seal	Wu Kai Sha	Winter	NA	Surface	Kitchen	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	Low	Low
+WKS2KVTWINT	Kitchen Ventilator	Wu Kai Sha	Winter	NA	Surface	Kitchen	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	Low	High
+WKS2RMCWINT	Remote Control	Wu Kai Sha	Winter	NA	Surface	Living Room	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	High	Low
+WKS2SCRWINT	TV Screen	Wu Kai Sha	Winter	NA	Surface	Living Room	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	Low	High
+WKS2SWCWINT	Shower Curtain	Wu Kai Sha	Winter	NA	Surface	Bathroom	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	High	Low
+WKS2TFBWINT	Toilet Flush Button	Wu Kai Sha	Winter	NA	Surface	Bathroom	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	High	Low
+WKS3uFOHWINT	Forehead	Wu Kai Sha	Winter	Wu Kai Sha u	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3uLFWINT	Left Forearm	Wu Kai Sha	Winter	Wu Kai Sha u	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3uLPWINT	Left Palm	Wu Kai Sha	Winter	Wu Kai Sha u	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3uRFWINT	Right Forearm	Wu Kai Sha	Winter	Wu Kai Sha u	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3uRPWINT	Right Palm	Wu Kai Sha	Winter	Wu Kai Sha u	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3vFOHWINT	Forehead	Wu Kai Sha	Winter	Wu Kai Sha v	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3vLFWINT	Left Forearm	Wu Kai Sha	Winter	Wu Kai Sha v	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3vLPWINT	Left Palm	Wu Kai Sha	Winter	Wu Kai Sha v	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3vRFWINT	Right Forearm	Wu Kai Sha	Winter	Wu Kai Sha v	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3vRPWINT	Right Palm	Wu Kai Sha	Winter	Wu Kai Sha v	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3wFOHWINT	Forehead	Wu Kai Sha	Winter	Wu Kai Sha w	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3wLFWINT	Left Forearm	Wu Kai Sha	Winter	Wu Kai Sha w	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3wLPWINT	Left Palm	Wu Kai Sha	Winter	Wu Kai Sha w	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3wRFWINT	Right Forearm	Wu Kai Sha	Winter	Wu Kai Sha w	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3wRPWINT	Right Palm	Wu Kai Sha	Winter	Wu Kai Sha w	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3xFOHWINT	Forehead	Wu Kai Sha	Winter	Wu Kai Sha x	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3xLFWINT	Left Forearm	Wu Kai Sha	Winter	Wu Kai Sha x	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3xLPWINT	Left Palm	Wu Kai Sha	Winter	Wu Kai Sha x	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3xRFWINT	Right Forearm	Wu Kai Sha	Winter	Wu Kai Sha x	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3xRPWINT	Right Palm	Wu Kai Sha	Winter	Wu Kai Sha x	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3yFOHWINT	Forehead	Wu Kai Sha	Winter	Wu Kai Sha y	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3yLFWINT	Left Forearm	Wu Kai Sha	Winter	Wu Kai Sha y	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3yLPWINT	Left Palm	Wu Kai Sha	Winter	Wu Kai Sha y	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3yRFWINT	Right Forearm	Wu Kai Sha	Winter	Wu Kai Sha y	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WKS3yRPWINT	Right Palm	Wu Kai Sha	Winter	Wu Kai Sha y	Skin	NA	New Territories	450	6	2	7	21	No Pet	Wood	22.426612	114.24147	Closed	Open	59.1	57	18.5	18.8	82.7	80.8	26.3	27.3	NA	NA
+WTS1BRWINT	Bedroom	Wong Tai Sin	Winter	NA	Air	Bedroom	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS1KCWINT	Kitchen	Wong Tai Sin	Winter	NA	Air	Kitchen	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS1LRWINT	Living Room	Wong Tai Sin	Winter	NA	Air	Living Room	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS1TLWINT	Toilet	Wong Tai Sin	Winter	NA	Air	Bathroom	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS2BHBWINT	Bed Headboard	Wong Tai Sin	Winter	NA	Surface	Bedroom	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	High	Low
+WTS2BLKWINT	Blanket	Wong Tai Sin	Winter	NA	Surface	Bedroom	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	High	High
+WTS2FDSWINT	Fridge Door Seal	Wong Tai Sin	Winter	NA	Surface	Kitchen	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	Low	Low
+WTS2KVTWINT	Kitchen Ventilator	Wong Tai Sin	Winter	NA	Surface	Kitchen	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	Low	High
+WTS2RMCWINT	Remote Control	Wong Tai Sin	Winter	NA	Surface	Living Room	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	High	Low
+WTS2SCRWINT	TV Screen	Wong Tai Sin	Winter	NA	Surface	Living Room	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	Low	High
+WTS2SWCWINT	Shower Curtain	Wong Tai Sin	Winter	NA	Surface	Bathroom	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	High	Low
+WTS2TFBWINT	Toilet Flush Button	Wong Tai Sin	Winter	NA	Surface	Bathroom	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	High	Low
+WTS3vFOHWINT	Forehead	Wong Tai Sin	Winter	Wong Tai Sin v	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3vLFWINT	Left Forearm	Wong Tai Sin	Winter	Wong Tai Sin v	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3vLPWINT	Left Palm	Wong Tai Sin	Winter	Wong Tai Sin v	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3vRFWINT	Right Forearm	Wong Tai Sin	Winter	Wong Tai Sin v	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3vRPWINT	Right Palm	Wong Tai Sin	Winter	Wong Tai Sin v	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3wFOHWINT	Forehead	Wong Tai Sin	Winter	Wong Tai Sin w	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3wLFWINT	Left Forearm	Wong Tai Sin	Winter	Wong Tai Sin w	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3wLPWINT	Left Palm	Wong Tai Sin	Winter	Wong Tai Sin w	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3wRFWINT	Right Forearm	Wong Tai Sin	Winter	Wong Tai Sin w	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3wRPWINT	Right Palm	Wong Tai Sin	Winter	Wong Tai Sin w	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3yFOHWINT	Forehead	Wong Tai Sin	Winter	Wong Tai Sin y	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3yLFWINT	Left Forearm	Wong Tai Sin	Winter	Wong Tai Sin y	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3yLPWINT	Left Palm	Wong Tai Sin	Winter	Wong Tai Sin y	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3yRFWINT	Right Forearm	Wong Tai Sin	Winter	Wong Tai Sin y	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3yRPWINT	Right Palm	Wong Tai Sin	Winter	Wong Tai Sin y	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3zFOHWINT	Forehead	Wong Tai Sin	Winter	Wong Tai Sin z	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3zLFWINT	Left Forearm	Wong Tai Sin	Winter	Wong Tai Sin z	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3zLPWINT	Left Palm	Wong Tai Sin	Winter	Wong Tai Sin z	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3zRFWINT	Right Forearm	Wong Tai Sin	Winter	Wong Tai Sin z	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
+WTS3zRPWINT	Right Palm	Wong Tai Sin	Winter	Wong Tai Sin z	Skin	NA	Kowloon	450	5	0	7	14	No Pet	Tile	22.343038	114.190913	Open	Open	66.9	64	17.4	19	75.2	71.8	24.3	26.1	NA	NA
